@@ -1,5 +1,5 @@
 <template>
-  <div>jet</div>
+  <div>jet组件部分</div>
   <div ref="container" class="pic"></div>
 </template>
 
